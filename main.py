@@ -1,1 +1,3 @@
-print("hello world")
+from mylib.logic import wiki
+
+print(wiki())
